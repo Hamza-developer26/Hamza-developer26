@@ -1,19 +1,5 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-  p {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 300; /* Light */
-  }
-</style>
-
-<p>A passionate frontend developer from Pakistan</p>
-🔭 I’m currently working on <strong>CodeAlpha</strong>
-
-
-
-<h1 style="font-size: 72px;">Hi 👋, </h1>
-<h1 style="text-color: blue" >I'm M.Hamza Malik</h1>
-<p font="light">A passionate frontend developer from Pakistan</p>
+<h1 style="font-size: 72px;">Hi I'm Hamza 👋🏻, </h1>
+<p font="light">I'm a 20-year-old frontend developer based in Pakistan, and I'm enthusiastic about real-world experience</p>
 🔭 I’m currently working on **CodeAlpha**
 
 <h3 align="left">Connect with me:</h3>
