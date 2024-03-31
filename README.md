@@ -1,4 +1,5 @@
-<h1 style="font-size: 1000px;">Hi 👋, I'm M.Hamza Malik</h1>
+<h1 style="font-size: 72px;">Hi 👋, </h1>
+<h1 style=""text-color: blue>I'm M.Hamza Malik</h1>
 
 <h3 align="center" font="light">A passionate frontend developer from Pakistan</h3>
 
