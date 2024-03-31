@@ -1,6 +1,6 @@
-<h1 align="center" style="font-size: 72px;">Hi 👋, I'm M.Hamza Malik</h1>
+<h1 style="font-size: 1000px;">Hi 👋, I'm M.Hamza Malik</h1>
 
-<p align="center" font="light">A passionate frontend developer from Pakistan</p>
+<h3 align="center" font="light">A passionate frontend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **CodeAlpha**
 
