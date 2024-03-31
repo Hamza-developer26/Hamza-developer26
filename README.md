@@ -1,5 +1,5 @@
-<h1 align="center" font="bold">Hi 👋, I'm M.Hamza Malik</h1>
-<h3 align="center" font="light">A passionate frontend developer from Pakistan</h3>
+<p align="center" font="bold">Hi 👋, I'm M.Hamza Malik</p>
+<p align="center" font="light">A passionate frontend developer from Pakistan</p>
 
 - 🔭 I’m currently working on **CodeAlpha**
 
