@@ -1,9 +1,7 @@
 <h1 style="font-size: 72px;">Hi 👋, </h1>
 <h1 style="text-color: blue">I'm M.Hamza Malik</h1>
 <p font="light">A passionate frontend developer from Pakistan</p>
-
-
-- 🔭 I’m currently working on **CodeAlpha**
+🔭 I’m currently working on **CodeAlpha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
