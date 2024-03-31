@@ -1,4 +1,4 @@
-<h1 style="font-size: 72px;">Hi I'm Hamza 👋🏻, </h1><p font="light">I'm a 20-year-old frontend developer based in Pakistan, and I'm enthusiastic about real-world experience</p>
+<h1 style="font-size: 72px;">Hi I'm Hamza 👋🏻, </h1> <p font="light">I'm a 20-year-old frontend developer based in Pakistan, and I'm enthusiastic about real-world experience</p>
 🔭 I’m currently working on **CodeAlpha**
 
 
